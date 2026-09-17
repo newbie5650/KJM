@@ -1,0 +1,6 @@
+{
+  "name": "WMS Alat Berat",
+  "description": "Enterprise Heavy Equipment Warehouse Management System with real-time notifications, multi-role workflows, and third-party API integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
